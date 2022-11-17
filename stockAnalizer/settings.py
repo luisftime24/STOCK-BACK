@@ -133,5 +133,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5500",
     "http://localhost:3000",
-    "http://localhost:4200"
+    "http://localhost:4200",
+    "https://6375c692cacb11299f76b2fa--levistock.netlify.app/"
 ]
